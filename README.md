@@ -6,7 +6,7 @@ TikTok Social Media Open Source Intellegence Tool
 ## Usage
 
 ```python3 tiktokOSINT.py --username 
-USERNAME.___ --downloadProfilePic```
+USERNAME my.___ --downloadProfilePic```
 
 
 ## Data
